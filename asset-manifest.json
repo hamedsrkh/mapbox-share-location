@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mapbox-share-location/static/css/main.d336c0c7.css",
+    "main.js": "/mapbox-share-location/static/js/main.d5aa42a1.js",
+    "index.html": "/mapbox-share-location/index.html",
+    "main.d336c0c7.css.map": "/mapbox-share-location/static/css/main.d336c0c7.css.map",
+    "main.d5aa42a1.js.map": "/mapbox-share-location/static/js/main.d5aa42a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d336c0c7.css",
+    "static/js/main.d5aa42a1.js"
+  ]
+}
